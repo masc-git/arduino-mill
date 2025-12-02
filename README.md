@@ -22,7 +22,7 @@ pin  description
 11. analog sensor height
 12. GND
 
-connector basePCB - inverter (connection between 3 and 6, parallel swithing U1 and U4, optocoupler)
+connector basePCB - inverter (connection between 3 and 6, parallel switching U1 and U4, optocoupler)
 pin  description
 1. U2 increase speed, frequency (0.7-20Hz?) gives the acceleration rate
 2. U3 decrease speed, frequency (0.7-20Hz?) gives the deceleration rate
