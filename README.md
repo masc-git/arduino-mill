@@ -7,7 +7,7 @@ base-pcb: 2009 V1.0 SJ-1246
 inverter: rhymebus RM5LD-2002 (input 1PH AC200-240V, output 3PH AC200-240V 7.5A)
 
 
-connector controlPCB - basePCB
+connector controlPCB - basePCB  
 pin  description
 1. enable inverter, active 16.7V
 2. inclination down, active GND 
@@ -22,7 +22,7 @@ pin  description
 11. analog sensor height
 12. GND
 
-connector basePCB - inverter (connection between 3 and 6, parallel switching U1 and U4, optocoupler)
+connector basePCB - inverter (connection between 3 and 6, parallel switching U1 and U4, optocoupler)  
 pin  description
 1. U2 increase speed, frequency (0.7-20Hz?) gives the acceleration rate
 2. U3 decrease speed, frequency (0.7-20Hz?) gives the deceleration rate
