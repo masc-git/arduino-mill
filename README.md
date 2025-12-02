@@ -9,7 +9,7 @@ inverter: rhymebus RM5LD-2002 (input 1PH AC200-240V, output 3PH AC200-240V 7.5A)
 
 connector controlPCB - basePCB
 pin  description
-1. enable inverter, active GND
+1. enable inverter, active 16.7V
 2. inclination down, active GND 
 3. inclination up, active GND
 4. V 16.7V from basePCB, power supply
