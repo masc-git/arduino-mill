@@ -1,5 +1,5 @@
 # arduino-mill
-This could be a replacement for the control PCB of a Tunturi(R) Platinum(R) Treadmill 11PTTR1000 1.8kW, maybe for other models too. the inverter PCB and the base PCB are still working, but the microcontroller fujitsu MB95F118NS seams dead. also the video-controller weltrend WT8881A doesn't drive the display. we did a reverse engineering of the connection between the top and base PCB to control the treadmill with a arduino. 
+this could be a replacement for the control PCB of a Tunturi(R) Platinum(R) Treadmill 11PTTR1000 1.8kW, maybe for other models too. the inverter PCB and the base PCB are still working, but the microcontroller fujitsu MB95F118NS seams dead. also the video-controller weltrend WT8881A doesn't drive the display. we did a reverse engineering of the connection between the top and base PCB to control the treadmill with a arduino. 
 
 
 control-pcb: YJ-3002-V1.2 20110114  
@@ -32,5 +32,7 @@ pin  description
 6. U1 enable
 
 
+## disclaimer 
+use this descriptions and code at your own risk, while it works for us it may contain faults or incomplete parts. 
 
 
