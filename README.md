@@ -31,7 +31,7 @@ pin  description
 5. common
 6. U1 enable
 
-connector controlPCB - buttons (active high)
+connector controlPCB - buttons (active high)   
 pin  description
 1. 5V
 2. led GND via NPN
