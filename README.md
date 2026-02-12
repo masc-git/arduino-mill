@@ -31,6 +31,19 @@ pin  description
 5. common
 6. U1 enable
 
+connector controlPCB - buttons (active high)
+pin  description
+1. 5V
+2. led GND via NPN
+3. wheel up  
+4. wheel down 
+5. wheel enter 
+6. start button
+7. stop button
+8. faster button
+9. slower button
+10. lower button
+11. higher button
 
 ## disclaimer 
 use this descriptions and code at your own risk, while it works for us it may contain faults or incomplete parts. 
