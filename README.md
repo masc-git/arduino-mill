@@ -6,6 +6,8 @@ control-pcb: YJ-3002-V1.2 20110114
 base-pcb: 2009 V1.0 SJ-1246  
 inverter: rhymebus RM5LD-2002 (input 1PH AC200-240V, output 3PH AC200-240V 7.5A)
 
+heartbeat sensor   
+there are two ways to measure the heartbeat. one by a receiver of polar pulse sensors (RE07L_1), and the other is a sensor with two metal handles. they give a digital pulse with a fixed with, the frequency corresponds with the heartbeat, active high. 
 
 connector controlPCB - basePCB  
 pin  description
